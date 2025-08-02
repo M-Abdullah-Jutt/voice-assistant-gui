@@ -19,12 +19,11 @@ This is a desktop voice assistant built with Python that lets users interact wit
 - threading
 - DeepSeek API
 
+## 👇 Go Through Project Demo Video 📷
+https://www.linkedin.com/posts/abdullah-shafqat_python-voiceassistant-ai-activity-7357129806213226496-ma_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqTbt4BAAMVaRMAS0RnyuXBN_7yLaj8Y5U
 
 ## 🚀 Run Locally
 1. Clone the repository:
 ```bash
 git clone https://github.com/M-Abdullah-Jutt/voice-assistant-gui.git
 cd voice-assistant-gui
-
-## 👇 Go Through Project Demo Video 📷
-https://www.linkedin.com/posts/abdullah-shafqat_python-voiceassistant-ai-activity-7357129806213226496-ma_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqTbt4BAAMVaRMAS0RnyuXBN_7yLaj8Y5U
